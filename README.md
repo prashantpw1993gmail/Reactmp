@@ -1,2 +1,2 @@
 # Reactmp
-react-native pr;ojects
+react-native projects
